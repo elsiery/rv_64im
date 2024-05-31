@@ -94,7 +94,7 @@
 * Individual verification of each block has been done.
 * Overall verification of 48 instructions has been done.
 * Top testbench file is "RV_64IM_test.v"
-* 8 programs written in asm have been successfully veried.
+* 8 programs written in asm have been successfully verified.
 * These asm programs are converted to hexa using my 'convert_asm_hexa.py' then the hexa file is used in top testbench file and "instruction_memory_model.v" file to run.
 * Please follow above instructions to run 
 
