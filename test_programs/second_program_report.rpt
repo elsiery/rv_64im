@@ -1,0 +1,360 @@
+Fetch stage is accurate for instruction           0
+Fetch stage is accurate for instruction           1
+decode stage is accurate for instruction           0
+decode stage is accurate for instruction           1
+Fetch stage is accurate for instruction           2
+Alu is accurate for instruction           0
+Alu is accurate for instruction           1
+Fetch stage is accurate for instruction           3
+decode stage is accurate for instruction           2
+decode stage is accurate for instruction           3
+Fetch stage is accurate for instruction           4
+Alu is accurate for instruction           2
+WB is accurate for instruction           0
+WB is accurate for instruction           1
+Alu is accurate for instruction           3
+Fetch stage is accurate for instruction           5
+decode stage is accurate for instruction           4
+decode stage is accurate for instruction           5
+Fetch stage is accurate for instruction           6
+Alu is accurate for instruction           4
+WB is accurate for instruction           2
+WB is accurate for instruction           3
+Alu is accurate for instruction           5
+Fetch stage is accurate for instruction           7
+decode stage is accurate for instruction           6
+decode stage is accurate for instruction           7
+Fetch stage is accurate for instruction           8
+Alu is accurate for instruction           6
+WB is accurate for instruction           4
+WB is accurate for instruction           5
+Alu is accurate for instruction           7
+Fetch stage is accurate for instruction           9
+decode stage is accurate for instruction           8
+decode stage is accurate for instruction           9
+Fetch stage is accurate for instruction          10
+Alu is accurate for instruction           8
+WB is accurate for instruction           6
+WB is accurate for instruction           7
+Alu is accurate for instruction           9
+Fetch stage is accurate for instruction          11
+decode stage is accurate for instruction          10
+decode stage is accurate for instruction          11
+Fetch stage is accurate for instruction          12
+Alu is accurate for instruction          10
+WB is accurate for instruction           8
+WB is accurate for instruction           9
+Alu is accurate for instruction          11
+Fetch stage is accurate for instruction          13
+decode stage is accurate for instruction          12
+decode stage is accurate for instruction          13
+Fetch stage is accurate for instruction          14
+Alu is accurate for instruction          12
+WB is accurate for instruction          10
+WB is accurate for instruction          11
+Alu is accurate for instruction          13
+Fetch stage is accurate for instruction          15
+decode stage is accurate for instruction          14
+decode stage is accurate for instruction          15
+Fetch stage is accurate for instruction          16
+Alu is accurate for instruction          14
+WB is accurate for instruction          12
+WB is accurate for instruction          13
+Alu is accurate for instruction          15
+Fetch stage is accurate for instruction          17
+decode stage is accurate for instruction          16
+decode stage is accurate for instruction          17
+Fetch stage is accurate for instruction          18
+Alu is accurate for instruction          16
+WB is accurate for instruction          14
+WB is accurate for instruction          15
+Alu is accurate for instruction          17
+Fetch stage is accurate for instruction          19
+decode stage is accurate for instruction          18
+decode stage is accurate for instruction          19
+Fetch stage is accurate for instruction          20
+Alu is accurate for instruction          18
+WB is accurate for instruction          16
+WB is accurate for instruction          17
+Alu is accurate for instruction          19
+Fetch stage is accurate for instruction          21
+decode stage is accurate for instruction          20
+decode stage is accurate for instruction          21
+Fetch stage is accurate for instruction          22
+Alu is accurate for instruction          20
+WB is accurate for instruction          18
+WB is accurate for instruction          19
+Alu is accurate for instruction          21
+Fetch stage is accurate for instruction          23
+decode stage is accurate for instruction          22
+decode stage is accurate for instruction          23
+Fetch stage is accurate for instruction          24
+Alu is accurate for instruction          22
+WB is accurate for instruction          20
+WB is accurate for instruction          21
+Alu is accurate for instruction          23
+Fetch stage is accurate for instruction          25
+decode stage is accurate for instruction          24
+decode stage is accurate for instruction          25
+Fetch stage is accurate for instruction          26
+Alu is accurate for instruction          24
+WB is accurate for instruction          22
+WB is accurate for instruction          23
+Alu is accurate for instruction          25
+Fetch stage is accurate for instruction          27
+decode stage is accurate for instruction          26
+decode stage is accurate for instruction          27
+Fetch stage is accurate for instruction          28
+Alu is accurate for instruction          26
+WB is accurate for instruction          24
+WB is accurate for instruction          25
+Alu is accurate for instruction          27
+Fetch stage is accurate for instruction          29
+decode stage is accurate for instruction          28
+decode stage is accurate for instruction          29
+Fetch stage is accurate for instruction          30
+Alu is accurate for instruction          28
+WB is accurate for instruction          26
+WB is accurate for instruction          27
+Alu is accurate for instruction          29
+Fetch stage is accurate for instruction          31
+decode stage is accurate for instruction          30
+decode stage is accurate for instruction          31
+Fetch stage is accurate for instruction          32
+Alu is accurate for instruction          30
+WB is accurate for instruction          28
+WB is accurate for instruction          29
+Alu is accurate for instruction          31
+Fetch stage is accurate for instruction          33
+decode stage is accurate for instruction          32
+decode stage is accurate for instruction          33
+Fetch stage is accurate for instruction          34
+Alu is accurate for instruction          32
+WB is accurate for instruction          30
+WB is accurate for instruction          31
+Alu is accurate for instruction          33
+Fetch stage is accurate for instruction          35
+decode stage is accurate for instruction          34
+decode stage is accurate for instruction          35
+Fetch stage is accurate for instruction          36
+Alu is accurate for instruction          34
+WB is accurate for instruction          32
+WB is accurate for instruction          33
+Alu is accurate for instruction          35
+Fetch stage is accurate for instruction          37
+decode stage is accurate for instruction          36
+decode stage is accurate for instruction          37
+Fetch stage is accurate for instruction          38
+Alu is accurate for instruction          36
+WB is accurate for instruction          34
+WB is accurate for instruction          35
+Alu is accurate for instruction          37
+Fetch stage is accurate for instruction          39
+decode stage is accurate for instruction          38
+decode stage is accurate for instruction          39
+Fetch stage is accurate for instruction          40
+Alu is accurate for instruction          38
+WB is accurate for instruction          36
+WB is accurate for instruction          37
+Alu is accurate for instruction          39
+Fetch stage is accurate for instruction          41
+decode stage is accurate for instruction          40
+decode stage is accurate for instruction          41
+Fetch stage is accurate for instruction          42
+Alu is accurate for instruction          40
+WB is accurate for instruction          38
+WB is accurate for instruction          39
+Alu is accurate for instruction          41
+Fetch stage is accurate for instruction          43
+decode stage is accurate for instruction          42
+decode stage is accurate for instruction          43
+Fetch stage is accurate for instruction          44
+Alu is accurate for instruction          42
+WB is accurate for instruction          40
+WB is accurate for instruction          41
+Alu is accurate for instruction          43
+Fetch stage is accurate for instruction          45
+decode stage is accurate for instruction          44
+decode stage is accurate for instruction          45
+Fetch stage is accurate for instruction          46
+Alu is accurate for instruction          44
+WB is accurate for instruction          42
+WB is accurate for instruction          43
+Alu is accurate for instruction          45
+Fetch stage is accurate for instruction          47
+decode stage is accurate for instruction          46
+decode stage is accurate for instruction          47
+Fetch stage is accurate for instruction          48
+Alu is accurate for instruction          46
+WB is accurate for instruction          44
+WB is accurate for instruction          45
+Alu is accurate for instruction          47
+Fetch stage is accurate for instruction          49
+decode stage is accurate for instruction          48
+decode stage is accurate for instruction          49
+Fetch stage is accurate for instruction          50
+Alu is accurate for instruction          48
+WB is accurate for instruction          46
+WB is accurate for instruction          47
+Alu is accurate for instruction          49
+Fetch stage is accurate for instruction          51
+decode stage is accurate for instruction          50
+decode stage is accurate for instruction          51
+Fetch stage is accurate for instruction          52
+Alu is accurate for instruction          50
+WB is accurate for instruction          48
+WB is accurate for instruction          49
+Alu is accurate for instruction          51
+Fetch stage is accurate for instruction          53
+decode stage is accurate for instruction          52
+decode stage is accurate for instruction          53
+Fetch stage is accurate for instruction          54
+Alu is accurate for instruction          52
+WB is accurate for instruction          50
+WB is accurate for instruction          51
+Alu is accurate for instruction          53
+Fetch stage is accurate for instruction          55
+decode stage is accurate for instruction          54
+decode stage is accurate for instruction          55
+Fetch stage is accurate for instruction          56
+Alu is accurate for instruction          54
+WB is accurate for instruction          52
+WB is accurate for instruction          53
+Alu is accurate for instruction          55
+Fetch stage is accurate for instruction          57
+decode stage is accurate for instruction          56
+decode stage is accurate for instruction          57
+Fetch stage is accurate for instruction          58
+Alu is accurate for instruction          56
+WB is accurate for instruction          54
+WB is accurate for instruction          55
+Alu is accurate for instruction          57
+Fetch stage is accurate for instruction          59
+decode stage is accurate for instruction          58
+decode stage is accurate for instruction          59
+Fetch stage is accurate for instruction          60
+Alu is accurate for instruction          58
+WB is accurate for instruction          56
+WB is accurate for instruction          57
+Alu is accurate for instruction          59
+Fetch stage is accurate for instruction          61
+decode stage is accurate for instruction          60
+decode stage is accurate for instruction          61
+Fetch stage is accurate for instruction          62
+Alu is accurate for instruction          60
+WB is accurate for instruction          58
+WB is accurate for instruction          59
+Alu is accurate for instruction          61
+Fetch stage is accurate for instruction          63
+decode stage is accurate for instruction          62
+decode stage is accurate for instruction          63
+Fetch stage is accurate for instruction          64
+Alu is accurate for instruction          62
+WB is accurate for instruction          60
+WB is accurate for instruction          61
+Alu is accurate for instruction          63
+Fetch stage is accurate for instruction          65
+decode stage is accurate for instruction          64
+decode stage is accurate for instruction          65
+Fetch stage is accurate for instruction          66
+Alu is accurate for instruction          64
+WB is accurate for instruction          62
+WB is accurate for instruction          63
+Alu is accurate for instruction          65
+Fetch stage is accurate for instruction          67
+decode stage is accurate for instruction          66
+decode stage is accurate for instruction          67
+Fetch stage is accurate for instruction          68
+Alu is accurate for instruction          66
+WB is accurate for instruction          64
+WB is accurate for instruction          65
+Alu is accurate for instruction          67
+Fetch stage is accurate for instruction          69
+decode stage is accurate for instruction          68
+decode stage is accurate for instruction          69
+Fetch stage is accurate for instruction          70
+Alu is accurate for instruction          68
+WB is accurate for instruction          66
+WB is accurate for instruction          67
+Alu is accurate for instruction          69
+Fetch stage is accurate for instruction          71
+decode stage is accurate for instruction          70
+decode stage is accurate for instruction          71
+Fetch stage is accurate for instruction          72
+Alu is accurate for instruction          70
+WB is accurate for instruction          68
+WB is accurate for instruction          69
+Alu is accurate for instruction          71
+Fetch stage is accurate for instruction          73
+decode stage is accurate for instruction          72
+decode stage is accurate for instruction          73
+Fetch stage is accurate for instruction          74
+Alu is accurate for instruction          72
+WB is accurate for instruction          70
+WB is accurate for instruction          71
+Alu is accurate for instruction          73
+Fetch stage is accurate for instruction          75
+decode stage is accurate for instruction          74
+decode stage is accurate for instruction          75
+Fetch stage is accurate for instruction          76
+Alu is accurate for instruction          74
+WB is accurate for instruction          72
+WB is accurate for instruction          73
+Alu is accurate for instruction          75
+Fetch stage is accurate for instruction          77
+decode stage is accurate for instruction          76
+decode stage is accurate for instruction          77
+Fetch stage is accurate for instruction          78
+Alu is accurate for instruction          76
+WB is accurate for instruction          74
+WB is accurate for instruction          75
+Alu is accurate for instruction          77
+Fetch stage is accurate for instruction          79
+decode stage is accurate for instruction          78
+decode stage is accurate for instruction          79
+Fetch stage is accurate for instruction          80
+Alu is accurate for instruction          78
+WB is accurate for instruction          76
+WB is accurate for instruction          77
+Alu is accurate for instruction          79
+Fetch stage is accurate for instruction          81
+decode stage is accurate for instruction          80
+decode stage is accurate for instruction          81
+Fetch stage is accurate for instruction          82
+Alu is accurate for instruction          80
+WB is accurate for instruction          78
+WB is accurate for instruction          79
+Alu is accurate for instruction          81
+Fetch stage is accurate for instruction          83
+decode stage is accurate for instruction          82
+decode stage is accurate for instruction          83
+Fetch stage is accurate for instruction          84
+Alu is accurate for instruction          82
+WB is accurate for instruction          80
+WB is accurate for instruction          81
+Alu is accurate for instruction          83
+Fetch stage is accurate for instruction          85
+decode stage is accurate for instruction          84
+decode stage is accurate for instruction          85
+Fetch stage is accurate for instruction          86
+Alu is accurate for instruction          84
+WB is accurate for instruction          82
+WB is accurate for instruction          83
+Alu is accurate for instruction          85
+Fetch stage is accurate for instruction          87
+decode stage is accurate for instruction          86
+decode stage is accurate for instruction          87
+Fetch stage is accurate for instruction          88
+Alu is accurate for instruction          86
+WB is accurate for instruction          84
+WB is accurate for instruction          85
+Alu is accurate for instruction          87
+Fetch stage is accurate for instruction          89
+decode stage is accurate for instruction          88
+decode stage is accurate for instruction          89
+Alu is accurate for instruction          88
+WB is accurate for instruction          86
+WB is accurate for instruction          87
+Alu is accurate for instruction          89
+WB is accurate for instruction          88
+WB is accurate for instruction          89
